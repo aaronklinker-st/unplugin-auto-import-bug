@@ -1,5 +1,7 @@
 # `unplugin-auto-import` Bug
 
+Reproduction of https://github.com/antfu/unplugin-auto-import/issues/307
+
 ```sh
 pnpm i
 pnpm dev
